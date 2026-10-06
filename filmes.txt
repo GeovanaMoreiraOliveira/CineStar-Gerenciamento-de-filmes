@@ -1,0 +1,6 @@
+1	Interestelar	Christopher Nolan	2014	FICCAO_CIENTIFICA
+2	Toy Story	John Lasseter	1995	ANIMACAO
+3	Titanic	James Cameron	1997	ROMANCE
+4	O Poderoso Chefão	Francis Ford Coppola	1972	DRAMA
+5	Minha Melhor Amiga	Susana Garcia	2026	COMEDIA
+6	O Rei Leão	Roger Allers	1994	AVENTURA
